@@ -1,0 +1,6 @@
+{
+        "inputUsername": "//input[@placeholder='Username']",
+        "inputPassword": "//input[@placeholder='Password']",
+        "btnLogin": "//button[@type='submit']",
+        "lblDashboard": "//h6[text()='Dashboard']" 
+}  

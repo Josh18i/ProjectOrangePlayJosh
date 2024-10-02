@@ -1,0 +1,12 @@
+{
+    "btnPim": "//span[text()='PIM']",
+    "btnAdd": "//button[text()=' Add ']",
+    "inputFirstName": "//input[@name='firstName']",
+    "inputMiddleName": "//input[@name='middleName']",
+    "inputLastName": "//input[@name='lastName']",
+    "btnSubmit": "//button[@type='submit']",
+    "inputID": "//label[text()='Employee Id']/../../div[2]/input",
+    "inputNameSearch": "//input[@placeholder='Type for hints...']",
+    "btnSearch": "//button[text()=' Search ']"
+  }
+  
